@@ -6,11 +6,13 @@
   "author": "Rob Kendal <38687284+bpk68@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.4.3",
-    "parcel-bundler": "^1.12.3"
+    "@babel/core": "^7.0.0-0",
+    "@babel/preset-env": "^7.4.3",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.19.0"
   },
   "scripts": {
-    "start": "parcel watch index.html",
+    "start": "parcel index.html --open",
     "build": "parcel build index.html"
   }
 }
