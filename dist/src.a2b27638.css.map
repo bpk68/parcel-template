@@ -1,1 +1,0 @@
-{"version":3,"sources":["src\\app.scss"],"names":[],"mappings":"AAGA;EACI,aAHU;EAIV,WALQ","file":"src.a2b27638.css","sourceRoot":"..","sourcesContent":["$font-size: 16px;\r\n$font-family: Helvetica, Tahoma, sans-serif;\r\n\r\nbody {\r\n    font-family: $font-family;\r\n    font-size: $font-size;\r\n}"]}

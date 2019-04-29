@@ -1,3 +1,6 @@
+# Parcel /dist output
+/dist
+
 # Logs
 logs
 *.log

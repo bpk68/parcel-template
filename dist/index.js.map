@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["document","querySelector","innerHTML"],"mappings":"AAEAA,QAAQ,CAACC,aAAT,CAAuB,MAAvB,EAA+BC,SAA/B,GAA2C,mCAA3C","file":"index.js","sourceRoot":"..\\src","sourcesContent":["\r\n\r\ndocument.querySelector('root').innerHTML = 'Welcome to the Parcel starter kit';"]}
