@@ -6,10 +6,10 @@
   "author": "Rob Kendal <38687284+bpk68@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.0.0-0",
-    "@babel/preset-env": "^7.4.3",
-    "parcel-bundler": "^1.12.3",
-    "sass": "^1.19.0"
+    "@babel/core": "7.7.4",
+    "@babel/preset-env": "7.7.4",
+    "parcel-bundler": "1.12.4",
+    "sass": "1.23.7"
   },
   "scripts": {
     "start": "parcel index.html --open",
